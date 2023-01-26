@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# print BestSchool 10 times using a while loop
 
 i=0
 while [	"$i" -lt 10 ];
