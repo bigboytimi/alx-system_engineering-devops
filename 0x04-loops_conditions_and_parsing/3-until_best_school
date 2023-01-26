@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # print a text 10 times using until loop
 
-i=10
+i=1
 
-until [ "$i" == 1 ];
+until [ "$i" == 10 ];
 do
 	echo "Best School"
-	i=$((i - 1))
+	i=$((i + 1))
 done
