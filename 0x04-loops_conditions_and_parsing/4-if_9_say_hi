@@ -8,8 +8,7 @@ do
 	echo "Best School"
 	
 	# if statement to print Hi when i is 9
-	if [ "$i" -eq 9 ];
-then 
+	if [ "$i" -eq 9 ]; then 
 	echo "Hi"
 	fi
 
