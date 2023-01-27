@@ -13,7 +13,7 @@ then
 
 
 	if [ -f "school" ]
-	then 
+	then
 		echo "school is a regular file"
 	fi
 else
